@@ -1,7 +1,7 @@
-## import_finmnvr_ODTK
+# import_finmnvr_ODTK
 
-# 23.02.2021
-# ODTK finite/impulsive maneuver script 
+ 23.02.2021
+## ODTK finite/impulsive maneuver script 
 by see.com 
 
 
