@@ -1,4 +1,7 @@
 23.02.2021
+ODTK finite/impulsive maneuver script 
+by see.com 
+
 
 This is a script that import mameuver to an existing ODTK scenario. 
 Maneuvers are exported from STK in .csv format and can be imported to odtk as 
