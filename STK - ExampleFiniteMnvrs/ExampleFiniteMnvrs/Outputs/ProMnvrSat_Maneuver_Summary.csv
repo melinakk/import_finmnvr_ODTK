@@ -1,0 +1,3 @@
+"Maneuver Number","Segment","Start Time (UTCG)","Stop Time (UTCG)","Duration (sec)","Est./Act. Finite Burn Duration (sec)","Delta V (m/sec)","Fuel Used (kg)"
+1,"Sequence0.ProMnvr",1 Jul 2019 18:21:07.289,1 Jul 2019 18:31:07.289,600.000,600.000,0.054546,0.001
+

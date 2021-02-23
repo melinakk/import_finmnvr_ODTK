@@ -1,0 +1,64 @@
+[Analytical Graphics, Inc]
+WorkbookVersion=9.0
+Title=ImportMnvrs
+Description=
+ApplicationVersion=ODTK 6.6.0
+Scenario=YES
+ActiveMDIState=TRUE
+[WorkState_v1_2]
+ptn_Child1=Frames
+[WorkState_v1_2.Frames]
+ptn_Child1=MainFrame
+ptn_Child2=ChildFrames
+[WorkState_v1_2.Frames.MainFrame]
+WindowPlacement=MCAAAAAAAAAAAAAABAAAAAAACJCIPPPPAADIPPPPPPPPPPPPPPPPPPPPOPPPPPPPKAAAAAAAHBHAAAAABDEAAAAA
+Title=ImportMnvrs - ODTK 6 - [HTML Viewer - Initial State Tool]
+[WorkState_v1_2.Frames.ChildFrames]
+ptn_Child1=Document-0
+ptn_Child2=Document-1
+ptn_Child3=Document-2
+ptn_Child4=Document-3
+ptn_Child5=Document-4
+[WorkState_v1_2.Frames.ChildFrames.Document-0]
+ptn_Child1=ViewFrame-0
+[WorkState_v1_2.Frames.ChildFrames.Document-0.ViewFrame-0]
+DocPathName=C:\Users\jpcar\OneDrive\Documents\STK 11 (x64)\ExampleFiniteMnvrs\Outputs\AgUiDllHtmlViewer6.AgUiPiHtmlViewer.1
+DocumentString=AgUiDllHtmlViewer6.AgUiPiHtmlViewer.1
+DocTemplateIndex=0
+WindowPlacement=MCAAAAAACAAAAAAADAAAAAAAPPPPPPPPPPPPPPPPFPPPPPPPDNPPPPPPOLAAAAAAOLAAAAAAGPDAAAAAANCAAAAA
+IsActiveChildFrame=True
+IsFrameVisible=True
+ptn_Child1=AGI Custom Node Data
+[WorkState_v1_2.Frames.ChildFrames.Document-0.ViewFrame-0.AGI Custom Node Data]
+CurrentURL=<HOME>ODTK\AppData\LaunchPad\Utilities\InitialStateTool.htm
+[WorkState_v1_2.Frames.ChildFrames.Document-2]
+ptn_Child1=ViewFrame-0
+[WorkState_v1_2.Frames.ChildFrames.Document-2.ViewFrame-0]
+DocPathName=C:\Users\jpcar\OneDrive\Documents\STK 11 (x64)\ExampleFiniteMnvrs\Outputs\AgUiWhitePanel6.AgUiPiWhitePanel.1
+DocumentString=AgUiWhitePanel6.AgUiPiWhitePanel.1
+DocTemplateIndex=0
+WindowPlacement=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPAAAAAAAAAAAAAAAADBCAAAAADPCAAAAA
+IsActiveChildFrame=False
+IsFrameVisible=True
+ProfUISBarID=63001
+[WorkState_v1_2.Frames.ChildFrames.Document-3]
+ptn_Child1=ViewFrame-0
+[WorkState_v1_2.Frames.ChildFrames.Document-3.ViewFrame-0]
+DocPathName=C:\Users\jpcar\OneDrive\Documents\STK 11 (x64)\ExampleFiniteMnvrs\Outputs\AgUiAttrBrowser6.AgUiPiAttrBrowser.1
+DocumentString=AgUiAttrBrowser6.AgUiPiAttrBrowser.1
+DocTemplateIndex=0
+WindowPlacement=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPAAAAAAAAAAAAAAAAEMAAAAAADPCAAAAA
+IsActiveChildFrame=False
+IsFrameVisible=True
+ProfUISBarID=63000
+ptn_Child1=AGI Custom Node Data
+[WorkState_v1_2.Frames.ChildFrames.Document-4]
+ptn_Child1=ViewFrame-0
+[WorkState_v1_2.Frames.ChildFrames.Document-4.ViewFrame-0]
+DocPathName=C:\Users\jpcar\OneDrive\Documents\STK 11 (x64)\ExampleFiniteMnvrs\Outputs\AgUiMessageViewer6.AgUiPiMessageViewer.1
+DocumentString=AgUiMessageViewer6.AgUiPiMessageViewer.1
+DocTemplateIndex=0
+WindowPlacement=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPAAAAAAAAAAAAAAAADAHAAAAAOGAAAAAA
+IsActiveChildFrame=False
+IsFrameVisible=True
+ProfUISBarID=63002

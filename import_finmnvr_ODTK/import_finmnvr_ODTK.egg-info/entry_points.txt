@@ -1,0 +1,4 @@
+
+        [console_scripts]
+        import_finmnvr_ODTK=import_finmnvr_ODTK:cli
+    
